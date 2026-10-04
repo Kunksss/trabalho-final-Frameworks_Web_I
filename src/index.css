@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+}
+
+/* Os cards e o título do header são links, então tiro o sublinhado padrão */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+img {
+  max-width: 100%;
+}
